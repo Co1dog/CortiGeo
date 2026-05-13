@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Data and generated outputs are intentionally excluded from this code-only release.
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.npy
+*.npz
+*.nii
+*.nii.gz
+*.h5
+*.pkl
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+*.rar
+*.zip
+*.tar
+*.tar.gz
+
+figures/
+tables/
+data/
+results/
+outputs/
