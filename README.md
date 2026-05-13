@@ -133,13 +133,13 @@ Meshulam, M., Hasenfratz, L., Hillman, H. et al. **Neural alignment predicts lea
 
 ---
 
-# CortiGeo: 皮层几何
+# CortiGeo
 
 本文库是 **Low-Dimensional Representations Support Efficient Learning Across Brains and AI** 一文中 fMRI 实验部分的代码发布版本。
 
 ## 项目简介
 
-**CortiGeo** 意为 **Cortical Geometry**，即“皮层几何”。这个代码库整理了论文 *Low-Dimensional Representations Support Efficient Learning Across Brains and AI* 中 fMRI 相关实验所使用的分析代码。分析内容主要围绕皮层表征的几何性质展开，包括内在维度、神经表征之间的 Wasserstein 距离、ROI 水平指标与学习结果之间的相关性，以及这些统计结果在皮层上的可视化。
+**CortiGeo** 意为 **Cortical Geometry**。这个代码库整理了论文 *Low-Dimensional Representations Support Efficient Learning Across Brains and AI* 中 fMRI 相关实验所使用的分析代码。分析内容主要围绕皮层表征的几何性质展开，包括内在维度、神经表征之间的 Wasserstein 距离、ROI 水平指标与学习结果之间的相关性，以及这些统计结果在皮层上的可视化。
 
 这个仓库是面向公开发布和归档的版本。它不仅包含论文中主要使用的 fMRI 分析代码，也保留了一些项目探索阶段开发、但最终没有全部写入正文的实验代码。
 
